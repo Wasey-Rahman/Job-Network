@@ -1,0 +1,16 @@
+
+    .Feature-container {
+       display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+      
+      .Feature-container > div {
+        width: calc(50% - 0.5rem);
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+        margin: 10px;
+        width: 500px;
+        padding: 20px;
+
+      }

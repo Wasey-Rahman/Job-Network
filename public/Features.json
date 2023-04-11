@@ -1,0 +1,68 @@
+[
+    {
+      "id": "64359828d96fe695e1dbc879",
+      "logo": "/Picture/google.png",
+     "postName": "Technical Database Engineer",
+     "companyName": "Google LLC",
+     "jobType1": "Remote",
+     "jobType2": "Full Time",
+     "location": "Dhaka, Bangladesh",
+     "salary": "Salary : 100K - 150K",
+     "button": "View Details"
+    },
+    {
+      "id": "6435982895a35b5e9f953e17",
+      "logo": "/Picture/netflix.png",
+     "postName": "Senior Product Designer",
+     "companyName": "Netflix",
+     "jobType1": "Onsite",
+     "jobType2": "Full-time",
+     "location": "Dhaka, Bangladesh",
+     "salary": "Salary : 80K - 120K",
+     "button": "View Details"
+    },
+    {
+      "id": "643598282cb9c99978d9019a",
+      "logo": "/Picture/tesla.png",
+     "postName": "Software Engineer",
+     "companyName": "Tesla",
+     "jobType1": "Full-time",
+     "jobType2": "Onsite",
+     "location": "Dhaka, Bangladesh",
+     "salary": "Salary : 100K - 180K",
+     "button": "View Details"
+    },
+    {
+      "id": "6435982839aea8c44acc7d4e",
+      "logo": "/Picture/airbnb.png",
+     "postName": "Motion Graphic Designer",
+     "companyName": "Airbnb LLC",
+     "jobType1": "Remote",
+     "jobType2": "Full-time",
+     "location": "Dhaka, Bangladesh",
+     "salary": "Salary : 70K - 100K",
+     "button": "View Details"
+    },
+    {
+      "id": "64359828bb07ec5621127a47",
+      "logo": "https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg",
+     "postName": "Quality Assurance",
+     "companyName": "YouTube",
+     "jobType1": "Full-time",
+     "jobType2": "Onsite",
+     "location": "Dhaka, Bangladesh",
+     "salary": "Salary : 60K - 110K",
+     "button": "View Details"
+    },
+    {
+      "id": "64359828d2eba13a48181a15",
+      "logo": "https://www.logo.wine/a/logo/Meta_Platforms/Meta_Platforms-Logo.wine.svg",
+     "postName": "Web Developer",
+     "companyName": "Meta",
+     "jobType1": "Remote",
+     "jobType2": "Full-time",
+     "location": "Dhaka, Bangladesh",
+     "salary": "Salary : 150K - 250K",
+     "button": "View Details"
+    }
+  ]
