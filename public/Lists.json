@@ -1,0 +1,27 @@
+[
+    {
+      "id": "643575f84821bc80f6867357",
+      "logo": "/Image/accounts 1.png",
+      "name": "Account & Finance",
+      "jobs": "300 Jobs Available"
+    },
+    {
+      "id": "643575f8c5a624574cb12dda",
+      "logo": "/Image/business 1.png",
+      "name": "Creative Design",
+      "jobs": "100+ Jobs Available"
+    },
+    {
+      "id": "643575f8dd2b28aa7c4f9700",
+      "logo": "/Image/social-media 1.png",
+      "name": "Marketing & Sales",
+      "jobs": "150 Jobs Available"
+    },
+    {
+      "id": "643575f844ea793cd162efca",
+      "logo": "/Image/chip 1.png",
+      "name": "Engineering Job",
+      "jobs": "224 Jobs Available"
+    }
+  ]
+  
