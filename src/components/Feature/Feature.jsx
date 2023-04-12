@@ -2,13 +2,16 @@ import React, { useEffect, useState } from 'react';
 import Company from '../Company/Company';
 import './Feature.css'
 
+
+
 const Feature = () => {
     const[Features,setFeatures]= useState([]);
+   
 
     useEffect(() => {
         fetch('Features.json')
         .then(res =>res.json())
-        .then(data =>setFeatures(data))
+        .then(data =>setFeatures(data.slice(0,4)))
     },[]);
 
     return (
@@ -22,7 +25,9 @@ const Feature = () => {
                 Feature={Feature}
             ></Company>)
            }
-            </div>
+           
+           </div>
+           
             <div className="flex justify-center">
                 <button className='bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 mt-2'>See All Jobs</button>
             </div>

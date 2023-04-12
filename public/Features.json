@@ -8,8 +8,17 @@
      "jobType2": "Full Time",
      "location": "Dhaka, Bangladesh",
      "salary": "Salary : 100K - 150K",
-     "button": "View Details"
-    },
+     "button": "View Details",
+     "jobDescription": "We are seeking a Technical Database Engineer to join our team. The ideal candidate will have experience with database administration, database design, and database development. The candidate should also be familiar with database technologies such as MySQL, Oracle, and Microsoft SQL Server.",
+    "jobResponsibilities": "- Design and implement database solutions that meet business requirements.\n- Monitor database performance and make recommendations for improvements.\n- Develop and maintain database scripts and automation tools.\n- Work with development teams to ensure that database design and implementation are consistent with overall application architecture.\n- Troubleshoot and resolve database issues as they arise.\n- Create and maintain technical documentation related to database design, implementation, and maintenance.",
+    "educationalRequirements": "Bachelor's degree in Computer Science, Information Systems, or a related field.",
+    "experiences": "5+ years of experience in database administration, database design, or a related field.",
+    "contactInformation": {
+    "phone": "+1-555-555-5555",
+    "email": "contact@google.com"
+    }
+  },
+
     {
       "id": "6435982895a35b5e9f953e17",
       "logo": "/Picture/netflix.png",
@@ -19,8 +28,17 @@
      "jobType2": "Full-time",
      "location": "Dhaka, Bangladesh",
      "salary": "Salary : 80K - 120K",
-     "button": "View Details"
-    },
+     "button": "View Details",
+     "jobDescription": "We are seeking a Senior Product Designer to join our team. The ideal candidate will have experience designing and delivering successful digital products, as well as a strong understanding of user-centered design principles.",
+      "JobResponsibilities": "- Collaborate with product managers and developers to define and implement design solutions that meet business goals.\n- Conduct user research and usability testing to inform design decisions.\n- Create wireframes, prototypes, and visual designs that effectively communicate design concepts.\n- Present design concepts and solutions to stakeholders.\n- Work with cross-functional teams to ensure that design solutions are implemented correctly.",
+     "educationalRequirements": "Bachelor's degree in Design, Human-Computer Interaction, or a related field.",
+     "experiences": "8+ years of experience in product design, user experience design, or a related field.",
+     "contactInformation": {
+     "phone": "+1-545-333-5505",
+     "email": "contact@netflix.com"
+}
+},
+    
     {
       "id": "643598282cb9c99978d9019a",
       "logo": "/Picture/tesla.png",
@@ -30,7 +48,21 @@
      "jobType2": "Onsite",
      "location": "Dhaka, Bangladesh",
      "salary": "Salary : 100K - 180K",
-     "button": "View Details"
+     "button": "View Details",
+     "jobDescription":"We are seeking a skilled software engineer to join our team. In this role, you will be responsible for developing and maintaining software applications and systems that meet the needs of our customers. You will work closely with other members of the development team to ensure that software products are delivered on time and to a high standard.Write clean, maintainable, and efficient code.",
+     "JobResponsibilities":"Collaborate with cross-functional teams to design and develop software applications and systems.Debug and troubleshoot software defects.Stay up-to-date with emerging trends and technologies in software development",
+     "educationalRequirements":"Bachelor's degree in Computer Science, Software Engineering or related field",
+     "experiences":"Minimum of 3 years of experience in software development",
+     "contactInformation": {
+      "phone":"123-456-7890",
+      "email": "contact@tesla.com"
+
+
+     }
+
+
+
+
     },
     {
       "id": "6435982839aea8c44acc7d4e",
@@ -41,7 +73,18 @@
      "jobType2": "Full-time",
      "location": "Dhaka, Bangladesh",
      "salary": "Salary : 70K - 100K",
-     "button": "View Details"
+     "button": "View Details",
+     "jobDescription":"We are looking for a talented motion graphic designer to create engaging and effective visual content for our brand. In this role, you will work closely with the marketing and design teams to create animations, videos, and other multimedia content that will help us to communicate our brand message to our target audience.",
+     "JobResponsibilities":"Conceptualize, design, and animate motion graphics for various platforms including social media, email marketing, and website content.Work with the marketing and design teams to ensure that all visual content aligns with our brand guidelines and overall strategy.Collaborate with writers, editors, and other stakeholders to ensure that visual content is effective in conveying our brand message.",
+     "educationalRequirements":"Bachelor's degree in Graphic Design, Motion Graphics, or related field",
+     "experiences":"Minimum of 2 years of experience in motion graphics and multimedia content creation",
+     "contactInformation": {
+      "phone":"123-457-7990",
+      "email": "contact@airbnb.com"
+
+
+     }
+
     },
     {
       "id": "64359828bb07ec5621127a47",
@@ -52,17 +95,37 @@
      "jobType2": "Onsite",
      "location": "Dhaka, Bangladesh",
      "salary": "Salary : 60K - 110K",
-     "button": "View Details"
+     "button": "View Details",
+     "jobDescription":"We are seeking a detail-oriented quality assurance specialist to join our team. In this role, you will be responsible for ensuring that our software products meet the required quality standards before they are released to the market. You will work closely with the development team to identify defects and to ensure that all defects are fixed before the software is released.",
+     "JobResponsibilities":"Develop and execute test cases to ensure that software products meet quality standards.Collaborate with developers to identify and resolve defects.Participate in the continuous improvement of quality assurance processes and methodologies",
+     "educationalRequirements":"Bachelor's degree in Computer Science, Software Engineering or related field",
+     "experiences":"Minimum of 2 years of experience in software quality assurance",
+     "contactInformation": {
+      "phone":"178-406-7860",
+      "email": "contact@youtube.com"
+
+
+     }
+
     },
     {
       "id": "64359828d2eba13a48181a15",
       "logo": "https://www.logo.wine/a/logo/Meta_Platforms/Meta_Platforms-Logo.wine.svg",
-     "postName": "Web Developer",
+     "postName": "Font-end Developer",
      "companyName": "Meta",
      "jobType1": "Remote",
      "jobType2": "Full-time",
      "location": "Dhaka, Bangladesh",
      "salary": "Salary : 150K - 250K",
-     "button": "View Details"
-    }
+     "button": "View Details",
+     "jobDescription": "We are looking for a talented Front-end Developer to join our team. You will be responsible for developing and implementing user interface components using React.js and other web technologies. You should be able to translate our company and customer needs into functional and appealing interactive applications.",
+    "jobResponsibility": "- Developing and implementing user interface components using React.js and other web technologies\n- Translating designs and wireframes into high-quality code\n- Optimizing components for maximum performance across a vast array of web-capable devices and browsers\n- Collaborating with other team members and stakeholders\n- Ensuring high-quality graphic standards and brand consistency\n- Staying up-to-date with emerging trends and technologies",
+    "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+   "experiences": "Minimum 3 years of experience as a Front-end Developer or similar role",
+   "contactInformation": {
+   "phone": "+880 123456789",
+   "email": "contact@meta.com"
+}
+}
+    
   ]

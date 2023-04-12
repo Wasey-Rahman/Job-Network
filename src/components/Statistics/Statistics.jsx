@@ -5,7 +5,7 @@ const Statistics = () => {
     return (
         <div>
             <Navbar></Navbar>
-            <h1>Statistics</h1>
+            <h1 className='font-bold text-center text-2xl'>Statistics</h1>
         </div>
     );
 };

@@ -10,6 +10,8 @@ import {
 import Statistics from './components/Statistics/Statistics';
 import Blog from './components/Blog/Blog';
 import Applied from './components/Applied-Jobs/Applied';
+import Job from './components/Job/Job';
+
 
 
 
@@ -26,8 +28,14 @@ const router=createBrowserRouter([
       },
       {
         path:"/Applied Jobs",
-        element:<Applied></Applied>
+        element:<Applied></Applied>,
+        loader:() =>fetch('Features.json')
       },
+      {
+        path:"/:Applied jobs Id",
+        element:<Applied></Applied>,
+        
+      }, 
       {
         path:"/Blog",
         element:<Blog></Blog>
