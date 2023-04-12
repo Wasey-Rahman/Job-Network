@@ -10,6 +10,7 @@ import {
 import Statistics from './components/Statistics/Statistics';
 import Blog from './components/Blog/Blog';
 import Applied from './components/Applied-Jobs/Applied';
+import Page from './components/Page/Page';
 
 
 
@@ -39,6 +40,10 @@ const router=createBrowserRouter([
       {
         path:"/Blog",
         element:<Blog></Blog>
+      },
+      {
+        path:'*',
+      element:<Page></Page>
       }
     
   
