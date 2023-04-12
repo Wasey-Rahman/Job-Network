@@ -2,10 +2,16 @@ import React from 'react';
 import './Company.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMapMarkerAlt, faDollarSign } from "@fortawesome/free-solid-svg-icons";
+import { useNavigate } from 'react-router-dom';
 
 
 const Company = (props) => {
     const {logo,postName,companyName,jobType1,jobType2,location,salary,button} =props.Feature;
+    const navigate=useNavigate();
+
+    const handleNavigation=()=>{
+      navigate(`/Jobs`);
+    }
     
     return (
         <div>
@@ -34,7 +40,7 @@ const Company = (props) => {
       </div>
 
       <div className="ml-auto">
-        <button className="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 " >{button}</button>
+        <button className="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 "onClick={handleNavigation} >{button}</button>
       </div>
   
         </div>

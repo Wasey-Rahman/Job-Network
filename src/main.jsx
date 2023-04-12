@@ -11,6 +11,10 @@ import Statistics from './components/Statistics/Statistics';
 import Blog from './components/Blog/Blog';
 import Applied from './components/Applied-Jobs/Applied';
 import Page from './components/Page/Page';
+import Details from './components/Details/Details';
+import Jobs from './components/Jobs/Jobs';
+
+
 
 
 
@@ -32,15 +36,23 @@ const router=createBrowserRouter([
         element:<Applied></Applied>,
         loader:() =>fetch('Features.json')
       },
-      // {
-      //   path:"/:Applied jobs Id",
-      //   element:<Applied></Applied>,
-        
-      // }, 
+      
       {
         path:"/Blog",
         element:<Blog></Blog>
       },
+      {
+        path:'Jobs',
+        element:<Jobs></Jobs>,
+        loader:()=>fetch('Features.json')
+
+      },
+      {
+           path:'/:JobsId',
+           element:<Jobs></Jobs>,
+           loader:({params})=>console.log(params)
+      },
+      
       {
         path:'*',
       element:<Page></Page>
