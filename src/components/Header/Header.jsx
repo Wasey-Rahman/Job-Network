@@ -16,7 +16,7 @@ const Header = () => {
           <p className='text-sm mb-4 text-gray-700'>
           Explore thousands of job opportunities with all the information you need. Its your future. Come find it. Manage all your job application from start to finish.
           </p>
-          <button className='bg-indigo-600 text-white font-bold py-2 px-4 rounded'>
+          <button className='bg-indigo-600  hover:bg-blue-600 text-white font-bold py-2 px-4 rounded'>
           Get Started
           </button>
         </div>

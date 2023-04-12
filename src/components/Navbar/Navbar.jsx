@@ -1,6 +1,8 @@
 import React from 'react';
 import Link from '../Link/Link';
 
+
+
 const Navbar = () => {
     const routes = [
         { id: 1, name: 'Statistics', path: '/Statistics' },
@@ -20,11 +22,14 @@ const Navbar = () => {
         />
       ))}
       <li className='ml-auto mr-4'>
-        <button className=' bg-indigo-600 text-white font-bold py-2 px-4 rounded'>
+        <button className=' bg-indigo-600 hover:bg-blue-600  text-white font-bold py-2 px-4 rounded'>
         Start Applying
         </button>
       </li>
     </ul>
+    
+    
+    
   </nav>
 
 

@@ -7,6 +7,8 @@ import Header from './components/Header/Header'
 import List from './components/List/List'
 import Feature from './components/Feature/Feature'
 
+
+
 function App() {
   const [count, setCount] = useState(0)
 
@@ -16,7 +18,10 @@ function App() {
       <Header></Header>
       <List></List>
       <Feature></Feature>
+      
+    
       </div>
+      
   )
 }
 
